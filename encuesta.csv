@@ -1,0 +1,11 @@
+idencuesta,tipo de encuesta,estado,fecha
+1,carros,activa,"Aug 14, 2021"
+2,perros,activa,"Mar 9, 2022"
+3,computadora,inactiva,"Jan 23, 2022"
+4,celular,activa,"Mar 25, 2022"
+5,camas,inactiva,"Nov 17, 2021"
+6,televisores,activa,"May 25, 2022"
+7,teclados,activa,"Feb 13, 2022"
+8,peliculas,activa,"Aug 3, 2021"
+9,comida,inactiva,"Nov 13, 2021"
+10,sillas,inactiva,"Aug 17, 2021"
